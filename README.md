@@ -13,3 +13,6 @@ hugo serve
 4. Open your favorite browser and navigate to `http://localhost:1313/`
 
 Jupyter Notebook are in the `notebooks` folder
+
+#AWS Workshop Presentation
+https://www.eventbox.dev/published/lesson/pytorch-distributed-training-with-sagemaker/
